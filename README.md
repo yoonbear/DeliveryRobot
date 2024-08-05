@@ -1,5 +1,5 @@
 # DeliveryRobot
-##Introduction##
+## Introduction ##
 Virginia Tech has more than 38,000 students on and off campus. With all those students trying to find a
 quick place to eat in between classes, one could imagine how hard that could be. This would be
 impossible due to long dining hall lines, cluttered seating area, and could even be all the way across
@@ -11,7 +11,7 @@ they can study more, not miss meals, improve their mental health, as well as fee
 times with lower visibility. The only con is that these robots can cost from $2500-5000 which is not a
 cheap expense for a college with over 38,000 students. After seeing how well robot food delivery has
 worked for other colleges, that gave our team the idea to make a robot for food delivery.
-##Stakeholders##
+## Stakeholders ##
 Students that are unable to or have difficulty traveling to dining halls would be most impacted by an
 implementation of delivery robots. The main demographic of students that we are concerned about is
 people with disabilities. Starship, a company that produces delivery robots, reports that “as many as
@@ -24,7 +24,7 @@ for an on-campus population of about 6300 students [20, 21]. This would mean tha
 the cumulative cost would come out to be 225,000-450,000 dollars for a fleet of delivery robots. With
 Virginia Tech’s “$2.06 billion university budget for the 2023-2024 fiscal year,” $450,000 would be
 considered a relatively low investment [8].
-##Past Alternative solutions##
+## Past Alternative solutions ##
 Virginia Tech has tried implementing a couple of solutions like Grubhub, building more dining halls and
 trying to hire more people to help with this problem. However, these solutions have either not worked or
 have not been able to completely get rid of the problem. Out of these solutions Grubhub seems to be the
@@ -42,7 +42,7 @@ This would help disperse the students across multiple buildings, reducing the to
 However, this has major drawbacks as building a whole new dining hall is time consuming and expensive. 
 They would also have to find a whole new set of employees,
 which they already struggle to do, for the new dining hall.
-##Design Idea##
+## Design Idea ##
 Our main design will consist of a robot made of 4 wheels on a small base that holds a container to store
 food. Since we are mainly just making a prototype of an actual delivery robot, the robot will be made of
 materials like metal bars and cardboard. The base holding the motors and the wheels would be made of
